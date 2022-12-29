@@ -22,12 +22,12 @@ Clone the repository: git clone https://github.com/iftesam321/todo-mvc.git \
 Import the project into your IDE as a Maven project. \
 Run the WebAppApplication class as a Java application. \
 Open a web browser and go to http://localhost:8080 to access the application. \
-User username-iftesam password-dummy for login \
+User username-iftesam password-dummy for login 
 
-##Database Credentials Used in Docker
-MYSQL_ROOT_PASSWORD=dummypassword
-MYSQL_USER=todos-user 
-MYSQL_PASSWORD=dummytodos 
+## Database Credentials Used in Docker
+MYSQL_ROOT_PASSWORD=dummypassword \
+MYSQL_USER=todos-user \
+MYSQL_PASSWORD=dummytodos \ 
 MYSQL_DATABASE=todos
 
 ## Features
